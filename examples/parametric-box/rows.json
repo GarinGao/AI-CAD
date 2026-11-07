@@ -1,0 +1,15 @@
+[
+  ["W (width)",       "100 mm",        "Outer envelope, X"],
+  ["D (depth)",       "70 mm",         "Outer envelope, Y"],
+  ["H (height)",      "45 mm",         "Body height, floor to the open top"],
+  ["t",               "3 mm",          "Wall and floor thickness"],
+  ["corner_r",        "8 mm",          "Vertical corner radius"],
+  ["lid_t",           "3 mm",          "Lid plate thickness"],
+  ["front_port",      "30 x 10 mm",    "Front-wall opening, bottom edge at Z 22"],
+  ["boss",            "Ø9 x 12 mm",    "Four corner bosses, fused to wall and floor"],
+  ["pilot",           "Ø2.5 x 8 mm",   "Thread-forming pilot cut down from each boss top"],
+  ["screws",          "4 x M3",        "Through the lid into the corner bosses"],
+  ["screw_clear",     "Ø3.3 mm",       "Clearance through the lid"],
+  ["head_cbore",      "Ø6 x 2 mm",     "Flush counterbore on the lid top"],
+  ["overall",         "100 x 70 x 48 mm", "Including the 3 mm lid"]
+]

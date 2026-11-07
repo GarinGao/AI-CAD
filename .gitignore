@@ -1,0 +1,29 @@
+# Local / unpublished projects
+/_private/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated CAD artifacts. Only the published example keeps its deliverables.
+*.stl
+*.step
+*.stp
+*.dxf
+*.svg
+*.png
+*.skill
+
+!examples/parametric-box/output/*.stl
+!examples/parametric-box/output/*.step
+!examples/parametric-box/output/*.png

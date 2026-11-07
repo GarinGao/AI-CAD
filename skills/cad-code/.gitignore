@@ -1,0 +1,10 @@
+*.stl
+*.step
+*.stp
+*.svg
+*.png
+*.skill
+*.dxf
+__pycache__/
+*.pyc
+.DS_Store
