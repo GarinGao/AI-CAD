@@ -241,19 +241,6 @@ examples/my-part/
 DWG 是专有二进制格式，没有可靠的开源读取器；先用 CAD 软件或转换工具另存为
 DXF，再使用 `dxf_floorplan.py`。
 
-## 发布到 GitHub
-
-`_private/` 和生成物规则已经写入 `.gitignore`，不会把本地私有项目推上去。
-在 GitHub 创建空仓库后执行：
-
-```bash
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/GarinGao/AI-CAD.git
-git push -u origin main
-```
-
 ## 许可
 
 MIT License，详见 [LICENSE](LICENSE)。欢迎提交 issue 和 pull request。
